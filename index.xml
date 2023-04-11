@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReadingStory</title>
+    <link>http://readingstory.org/</link>
+    <description>Recent content on ReadingStory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://readingstory.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>写在编程随想被捕之后</title>
+      <link>http://readingstory.org/posts/%E5%86%99%E5%9C%A8%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E8%A2%AB%E6%8D%95%E4%B9%8B%E5%90%8E/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E5%86%99%E5%9C%A8%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E8%A2%AB%E6%8D%95%E4%B9%8B%E5%90%8E/</guid>
+      <description>写在编程随想被捕之后 An influential Chinese blogger disappeared from the internet. This woman says she knows why 从阮晓寰到“编程随想”：一个普通公民和“极客”如何成了“国家的敌人”？ 十多天前的大约三月二十</description>
+    </item>
+    
+    <item>
+      <title>读One Man&#39;s View of the World</title>
+      <link>http://readingstory.org/posts/%E8%AF%BBone-mans-view-of-the-world/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E8%AF%BBone-mans-view-of-the-world/</guid>
+      <description>其实笔者读这本书是读的中译本，但中文译名「李光耀观天下」不大符合书本意，故用英文名。 李光耀在这本书中的表现，不同于一般书的传记，本书几乎都是</description>
+    </item>
+    
+    <item>
+      <title>白纸</title>
+      <link>http://readingstory.org/posts/%E7%99%BD%E7%BA%B8/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E7%99%BD%E7%BA%B8/</guid>
+      <description>我发觉这件事发生在身边不远，已经是十二月十日了。白纸运动已经过去了，当下已经有消息传出要放弃大规模防疫。 前些天看着互联网上有大家出行的事迹，</description>
+    </item>
+    
+    <item>
+      <title>读山茶文具店</title>
+      <link>http://readingstory.org/posts/%E8%AF%BB%E5%B1%B1%E8%8C%B6%E6%96%87%E5%85%B7%E5%BA%97/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E8%AF%BB%E5%B1%B1%E8%8C%B6%E6%96%87%E5%85%B7%E5%BA%97/</guid>
+      <description>最近广州都在下雨，闲来无事，找了本书「山茶文具店」读。 小川糸这本书中的温度，既火热到温暖人心，却也极力表现出文字的冰冷，或者说是代笔人对文字</description>
+    </item>
+    
+    <item>
+      <title>倪匡离世了</title>
+      <link>http://readingstory.org/posts/%E5%80%AA%E5%8C%A1%E7%A6%BB%E4%B8%96%E4%BA%86/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E5%80%AA%E5%8C%A1%E7%A6%BB%E4%B8%96%E4%BA%86/</guid>
+      <description>大概是quota用完了吧，也早就封笔没什么想写的了，返回去外星球了吧。挺好的。 陶生讲他没受过什么教育，甚至他可能没读过文学、神学、哲学，但对</description>
+    </item>
+    
+    <item>
+      <title>六四的第三十三年</title>
+      <link>http://readingstory.org/posts/%E5%85%AD%E5%9B%9B%E7%9A%84%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E5%B9%B4/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://readingstory.org/posts/%E5%85%AD%E5%9B%9B%E7%9A%84%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E5%B9%B4/</guid>
+      <description>今年的维园果然也不开放，只是还和去年一样用着抗疫的理由，看着挺无聊的，毕竟根底的原因，大家早已心照不宣。 看着蛮多了解的人，在这两年都选择了出</description>
+    </item>
+    
+  </channel>
+</rss>
